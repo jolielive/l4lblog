@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jolie Kaufmann
 tagline: Designer
-featuredImage: /assets/undraw_about_me_wa29.svg
+featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
