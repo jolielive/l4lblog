@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "l4lblog",
+    "titleTemplate": "%s",
+    "description": "Site for Live4Love",
+    "siteUrl": "https://stupefied-jang-82d630.netlify.app/",
+    "image": "/assets/stackrole.png",
+    "twitterUsername": "@live4love"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
